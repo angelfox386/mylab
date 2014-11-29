@@ -16,4 +16,5 @@ var b=1;
 ```````
 
 [네이버 바로가기](http://naver.com)
-[다음 바로가기] (htt://www.daum.net)
+[다음] (htt://www.daum.net)
+[광주대학교] (http://www.gwangju.ac.kr)
